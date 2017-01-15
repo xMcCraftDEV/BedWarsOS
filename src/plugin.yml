@@ -1,0 +1,4 @@
+name: BedWars
+author: xMcCraft
+version: 1.0
+main: CraftAPI.BedWars.Main.Main
